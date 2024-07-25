@@ -1,0 +1,1 @@
+-- used to combine rows from 2 or more tables based on a related column between them, for ex:- foreign key
